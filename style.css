@@ -18,9 +18,10 @@ margin-top: 0px;
 margin-bottom: 0px;
 margin-left: 0px;
 }
-nav li1
+nav li1:hover
 {
 display: inline;
 margin-left: 100px;
+text-decoration: underline;
 
 } 
